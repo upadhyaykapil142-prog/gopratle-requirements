@@ -62,3 +62,13 @@ https://github.com/upadhyaykapil142-prog/gopratle-requirements
 
 ```text
 POST /api/requirements
+
+
+## Author
+
+**Kapil Upadhyay**
+
+- GitHub: https://github.com/upadhyaykapil142-prog
+- LinkedIn: https://www.linkedin.com/in/kapil-upadhyay-3075a9403/
+- Portfolio: https://upadhyaykapil142-prog.github.io/portfolio/
+- Email: upadhyaykapil142@gmail.com
